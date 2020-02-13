@@ -3,11 +3,10 @@
 You will implement a solution to Lewis Carroll's [word ladder game](https://en.wikipedia.org/wiki/Word_ladder).
 
 **Due date:**
-Thursday, 20 February at midnight
+Friday, 13 February at midnight
 (you may suggest an alternative due date by submitting a pull request)
 
 **Learning Objectives:**
-
 1. implement a complex algorithm involving both queues and stacks
 1. practice translating pseudocode into python
 1. practice using the github/travis toolchain
